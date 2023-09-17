@@ -19,3 +19,6 @@
 [submodule "Digital-Image"]
 	path = Digital-Image
 	url = https://github.com/MaZirui2001/Digital-Image.git
+[submodule "Embedded-System"]
+	path = Embedded-System
+	url = https://github.com/MaZirui2001/Embedded-System.git
