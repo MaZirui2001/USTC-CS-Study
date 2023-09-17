@@ -1,0 +1,12 @@
+[submodule "Artificial-Intelligence"]
+	path = Artificial-Intelligence
+	url = https://github.com/MaZirui2001/Artificial-Intelligence.git
+[submodule "Bigdata-Algorithm"]
+	path = Bigdata-Algorithm
+	url = https://github.com/MaZirui2001/Bigdata-Algorithm.git
+[submodule "Algorithm"]
+	path = Algorithm
+	url = https://github.com/MaZirui2001/Algorithm.git
+[submodule "CompilerH"]
+	path = CompilerH
+	url = https://github.com/MaZirui2001/CompilerH.git
