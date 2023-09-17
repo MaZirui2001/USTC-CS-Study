@@ -10,3 +10,9 @@
 [submodule "CompilerH"]
 	path = CompilerH
 	url = https://github.com/MaZirui2001/CompilerH.git
+[submodule "Computer-Architecture-H"]
+	path = Computer-Architecture-H
+	url = https://github.com/MaZirui2001/Computer-Architecture-H.git
+[submodule "Database"]
+	path = Database
+	url = https://github.com/MaZirui2001/Database.git
