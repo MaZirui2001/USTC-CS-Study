@@ -28,3 +28,6 @@
 [submodule "Compiler-H"]
 	path = Compiler-H
 	url = https://github.com/MaZirui2001/Compiler-H.git
+[submodule "Introduction-of-Computing-System"]
+	path = Introduction-of-Computing-System
+	url = https://github.com/MaZirui2001/Introduction-of-Computing-System.git
