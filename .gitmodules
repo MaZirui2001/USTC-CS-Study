@@ -16,3 +16,6 @@
 [submodule "Database"]
 	path = Database
 	url = https://github.com/MaZirui2001/Database.git
+[submodule "Digital-Image"]
+	path = Digital-Image
+	url = https://github.com/MaZirui2001/Digital-Image.git
