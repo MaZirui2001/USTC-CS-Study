@@ -22,3 +22,9 @@
 [submodule "Embedded-System"]
 	path = Embedded-System
 	url = https://github.com/MaZirui2001/Embedded-System.git
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/MaZirui2001/Networking.git
+[submodule "Quantum-Computing-and-Machine-Learning"]
+	path = Quantum-Computing-and-Machine-Learning
+	url = https://github.com/MaZirui2001/Quantum-Computing-and-Machine-Learning.git
