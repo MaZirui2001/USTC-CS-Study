@@ -31,3 +31,6 @@
 [submodule "Introduction-of-Computing-System"]
 	path = Introduction-of-Computing-System
 	url = https://github.com/MaZirui2001/Introduction-of-Computing-System.git
+[submodule "DIgital-Lab"]
+	path = DIgital-Lab
+	url = https://github.com/MaZirui2001/DIgital-Lab.git
