@@ -25,3 +25,6 @@
 [submodule "Quantum-Computing-and-Machine-Learning"]
 	path = Quantum-Computing-and-Machine-Learning
 	url = https://github.com/MaZirui2001/Quantum-Computing-and-Machine-Learning.git
+[submodule "Compiler-H"]
+	path = Compiler-H
+	url = https://github.com/MaZirui2001/Compiler-H.git
